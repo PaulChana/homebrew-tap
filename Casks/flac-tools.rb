@@ -1,6 +1,6 @@
 cask "flac-tools" do
-  version "1.2.0"
-  sha256 "28530f9302fdb9fd44e594124b6fe896fcd07d6218bdb680f4087a7fdf227483"
+  version "1.2.1"
+  sha256 "3a04f8909e8eacf5454906b6a85065b931a1610c22fa8fd44aa7b5062c59308e"
 
   url "https://github.com/PaulChana/flac-tools/releases/download/v#{version}/FLAC-Tools-#{version}.dmg"
   name "FLAC Tools"
